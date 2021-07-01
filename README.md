@@ -18,5 +18,9 @@ The credit union board wants to allow the union's members to assess their monthl
 
 ### Collecting Data Using Api
 
+![](https://raw.githubusercontent.com/bhatt11z/Financial-Planning-/main/screen%20shots/Screenshot%202021-07-01%20at%202.06.37%20PM.png)
+![](https://raw.githubusercontent.com/bhatt11z/Financial-Planning-/main/screen%20shots/Screenshot%202021-07-01%20at%202.10.33%20PM.png)
 
+### Montecarlo Simulation
+![](https://raw.githubusercontent.com/bhatt11z/Financial-Planning-/main/screen%20shots/Screenshot%202021-07-01%20at%202.12.13%20PM.png)
 
